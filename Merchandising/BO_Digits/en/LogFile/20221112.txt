@@ -1,0 +1,1 @@
+12-11-2022 01:46:36: General Functions  :- sp_VisitReportsError : Column 'tb_CustomerStartExit.cse_udp_ID' is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause. - 

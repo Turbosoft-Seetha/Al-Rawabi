@@ -1,0 +1,2 @@
+29-10-2022 10:02:36: General Functions  :- sp_VisitReportsError : Conversion failed when converting the varchar value 'N' to data type int. - 
+29-10-2022 10:08:49: General Functions  :- sp_VisitReportsError : Conversion failed when converting the varchar value 'N' to data type int. - 

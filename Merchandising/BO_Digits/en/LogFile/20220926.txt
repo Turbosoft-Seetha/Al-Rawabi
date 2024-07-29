@@ -1,0 +1,2 @@
+26-09-2022 14:18:59: General Functions  :- sp_LeftNavigationError : Conversion failed when converting the nvarchar value 'null' to data type int. - 
+26-09-2022 14:20:51: General Functions  :- sp_LeftNavigationError : Conversion failed when converting the nvarchar value 'null' to data type int. - 
