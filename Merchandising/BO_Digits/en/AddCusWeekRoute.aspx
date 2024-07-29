@@ -18,7 +18,7 @@
         function redirect() {
             var url = new URL(window.location.href);
             var c = url.searchParams.get("Id");
-            window.location.href = "CustomerWeekRoute.aspx?Id=" + c;
+            window.location.href = "CustomerWeekRoute.aspx?Id=" + c;    
         }
      </script>
 </asp:Content>
