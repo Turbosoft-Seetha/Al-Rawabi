@@ -13773,9 +13773,141 @@
     <Content Include="BO_Digits\assets\plugins\global\plugins.bundle.css" />
     <Content Include="BO_Digits\assets\plugins\global\plugins.bundle.js" />
     <Content Include="BO_Digits\assets\plugins\global\plugins.bundle.rtl.css" />
+    <Content Include="BO_Digits\en\AddCusWeekRoute.aspx" />
+    <Content Include="BO_Digits\en\AddEditAgreementCat.aspx" />
+    <Content Include="BO_Digits\en\AddEditAgreementOffer.aspx" />
+    <Content Include="BO_Digits\en\AddEditAgreementPayTerms.aspx" />
+    <Content Include="BO_Digits\en\AddEditAgreementSubCat.aspx" />
+    <Content Include="BO_Digits\en\AddEditAgreementType.aspx" />
+    <Content Include="BO_Digits\en\AddEditArea.aspx" />
+    <Content Include="BO_Digits\en\AddEditAssetMaster.aspx" />
+    <Content Include="BO_Digits\en\AddEditAutoUpdate.aspx" />
+    <Content Include="BO_Digits\en\AddEditBrand.aspx" />
+    <Content Include="BO_Digits\en\AddEditCategory.aspx" />
+    <Content Include="BO_Digits\en\AddEditCompetitor.aspx" />
+    <Content Include="BO_Digits\en\AddEditCompetitorActivityType.aspx" />
+    <Content Include="BO_Digits\en\AddEditComplaintsNature.aspx" />
+    <Content Include="BO_Digits\en\AddEditCoolerType.aspx" />
+    <Content Include="BO_Digits\en\AddEditCusHeader.aspx" />
+    <Content Include="BO_Digits\en\AddEditCusRoute.aspx" />
+    <Content Include="BO_Digits\en\AddEditCusRouteProducts.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomer.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerActivity.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerActivityDetail.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerBrochure.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerCategory.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerClass.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerMain.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerOperations.aspx" />
+    <Content Include="BO_Digits\en\AddEditCustomerTasks.aspx" />
+    <Content Include="BO_Digits\en\AddEditDepot.aspx" />
+    <Content Include="BO_Digits\en\AddEditDepotArea.aspx" />
+    <Content Include="BO_Digits\en\AddEditDepotSubArea.aspx" />
+    <Content Include="BO_Digits\en\AddEditLicenseManagement.aspx" />
+    <Content Include="BO_Digits\en\AddEditNewRequest.aspx" />
+    <Content Include="BO_Digits\en\AddEditProductMappingGroup.aspx" />
+    <Content Include="BO_Digits\en\AddEditProducts.aspx" />
+    <Content Include="BO_Digits\en\AddEditQuestions.aspx" />
+    <Content Include="BO_Digits\en\AddEditReason.aspx" />
+    <Content Include="BO_Digits\en\AddEditRegion.aspx" />
+    <Content Include="BO_Digits\en\AddEditRoute.aspx" />
+    <Content Include="BO_Digits\en\AddEditRouteNotification.aspx" />
+    <Content Include="BO_Digits\en\AddEditSpecialPrice.aspx" />
+    <Content Include="BO_Digits\en\AddEditSpecialPriceDetail.aspx" />
+    <Content Include="BO_Digits\en\AddEditSubcategory.aspx" />
+    <Content Include="BO_Digits\en\AddEditSurveyMaster.aspx" />
+    <Content Include="BO_Digits\en\AddEditSurveyQuestions.aspx" />
     <Content Include="BO_Digits\en\AddEditUser.aspx" />
+    <Content Include="BO_Digits\en\AddEditUsers.aspx" />
+    <Content Include="BO_Digits\en\AddProducts.aspx" />
     <Content Include="BO_Digits\en\AddRole.aspx" />
+    <Content Include="BO_Digits\en\AddSurveyCustomerRoute.aspx" />
+    <Content Include="BO_Digits\en\AddSurveyDetail.aspx" />
+    <Content Include="BO_Digits\en\CustomerGeoLocation.aspx" />
+    <Content Include="BO_Digits\en\CustomerNotAvailable.aspx" />
+    <Content Include="BO_Digits\en\CustomerNotAvailableDetail.aspx" />
+    <Content Include="BO_Digits\en\CustomerOperationsAssignment.aspx" />
+    <Content Include="BO_Digits\en\CustomerProductMapping.aspx" />
+    <Content Include="BO_Digits\en\CustomerTask.aspx" />
+    <Content Include="BO_Digits\en\CustomerWeekRoute.aspx" />
     <Content Include="BO_Digits\en\Dashboard.aspx" />
+    <Content Include="BO_Digits\en\DeliveryCheck.aspx" />
+    <Content Include="BO_Digits\en\DeliveryCheckDetail.aspx" />
+    <Content Include="BO_Digits\en\DisplayAgreements.aspx" />
+    <Content Include="BO_Digits\en\ImageCapture.aspx" />
+    <Content Include="BO_Digits\en\Inventory.aspx" />
+    <Content Include="BO_Digits\en\InventoryDetail.aspx" />
+    <Content Include="BO_Digits\en\InventoryItem.aspx" />
+    <Content Include="BO_Digits\en\ItemAvailability.aspx" />
+    <Content Include="BO_Digits\en\ItemAvailabilityDetail.aspx" />
+    <Content Include="BO_Digits\en\ItemNotAvailable.aspx" />
+    <Content Include="BO_Digits\en\ItemNotAvailableDetail.aspx" />
+    <Content Include="BO_Digits\en\ItemNotAvailableReport.aspx" />
+    <Content Include="BO_Digits\en\LastRouteCommunicationReport.aspx" />
+    <Content Include="BO_Digits\en\ListAgreementCat.aspx" />
+    <Content Include="BO_Digits\en\ListAgreementOffer.aspx" />
+    <Content Include="BO_Digits\en\ListAgreementPayTerms.aspx" />
+    <Content Include="BO_Digits\en\ListAgreementSubCat.aspx" />
+    <Content Include="BO_Digits\en\ListAgrementType.aspx" />
+    <Content Include="BO_Digits\en\ListArea.aspx" />
+    <Content Include="BO_Digits\en\ListAssetMaster.aspx" />
+    <Content Include="BO_Digits\en\ListAssign.aspx" />
+    <Content Include="BO_Digits\en\ListAssignedSurvey.aspx" />
+    <Content Include="BO_Digits\en\ListAutoUpdate.aspx" />
+    <Content Include="BO_Digits\en\ListBrand.aspx" />
+    <Content Include="BO_Digits\en\ListCategory.aspx" />
+    <Content Include="BO_Digits\en\ListCompetitor.aspx" />
+    <Content Include="BO_Digits\en\ListCompetitorActivities.aspx" />
+    <Content Include="BO_Digits\en\ListCompetitorActivityType.aspx" />
+    <Content Include="BO_Digits\en\ListComplaintsNature.aspx" />
+    <Content Include="BO_Digits\en\ListCoolerMaster.aspx" />
+    <Content Include="BO_Digits\en\ListCoolerType.aspx" />
+    <Content Include="BO_Digits\en\ListCusRouteProducts.aspx" />
+    <Content Include="BO_Digits\en\ListCustomer.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerActivity.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerActivityDetail.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerAssetTracking.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerAssetTrackingDetail.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerAssignedSurvey.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerBrochure.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerCategory.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerClass.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerHeader.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerMain.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerOperations.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerOutStockDetail.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerOutStockHeader.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerRetailPrice.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerRetailPriceDetail.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerRoute.aspx" />
+    <Content Include="BO_Digits\en\ListCustomerTasks.aspx" />
+    <Content Include="BO_Digits\en\ListDepoSubArea.aspx" />
+    <Content Include="BO_Digits\en\ListDepot.aspx" />
+    <Content Include="BO_Digits\en\ListDepotArea.aspx" />
+    <Content Include="BO_Digits\en\ListDisplayAgreements.aspx" />
+    <Content Include="BO_Digits\en\ListGeneralComplaints.aspx" />
+    <Content Include="BO_Digits\en\ListLicenseManagement.aspx" />
+    <Content Include="BO_Digits\en\ListNewRequest.aspx" />
+    <Content Include="BO_Digits\en\ListOppDocuments.aspx" />
+    <Content Include="BO_Digits\en\ListOpportunities.aspx" />
+    <Content Include="BO_Digits\en\ListProductComplaints.aspx" />
+    <Content Include="BO_Digits\en\ListProductMappingDetail.aspx" />
+    <Content Include="BO_Digits\en\ListProductMappingGroup.aspx" />
+    <Content Include="BO_Digits\en\ListProducts.aspx" />
+    <Content Include="BO_Digits\en\ListQuestionMaster.aspx" />
+    <Content Include="BO_Digits\en\ListReasonMaster.aspx" />
+    <Content Include="BO_Digits\en\ListRegionMaster.aspx" />
+    <Content Include="BO_Digits\en\ListRoute.aspx" />
+    <Content Include="BO_Digits\en\ListRouteProduct.aspx" />
+    <Content Include="BO_Digits\en\ListSalesWeek.aspx" />
+    <Content Include="BO_Digits\en\ListSpecialPrice.aspx" />
+    <Content Include="BO_Digits\en\ListSpecialPriceDetail.aspx" />
+    <Content Include="BO_Digits\en\ListSubcategory.aspx" />
+    <Content Include="BO_Digits\en\ListSurveyDetail.aspx" />
+    <Content Include="BO_Digits\en\ListSurveyHeader.aspx" />
+    <Content Include="BO_Digits\en\ListSurveyMaster.aspx" />
+    <Content Include="BO_Digits\en\ListSurveyQuestions.aspx" />
+    <Content Include="BO_Digits\en\ListUser.aspx" />
     <Content Include="BO_Digits\en\LogFile\20220924.txt" />
     <Content Include="BO_Digits\en\LogFile\20220926.txt" />
     <Content Include="BO_Digits\en\LogFile\20221029.txt" />
@@ -13784,7 +13916,20 @@
     <Content Include="BO_Digits\en\LogFile\20221108.txt" />
     <Content Include="BO_Digits\en\LogFile\20221112.txt" />
     <Content Include="BO_Digits\en\LogFile\20221117.txt" />
+    <Content Include="BO_Digits\en\MerchandisingTransactions.aspx" />
+    <Content Include="BO_Digits\en\MerchOthersDetail.aspx" />
+    <Content Include="BO_Digits\en\MerchTransactionDetail.aspx" />
+    <Content Include="BO_Digits\en\NearByExpiryReport.aspx" />
+    <Content Include="BO_Digits\en\OutOfStock.aspx" />
+    <Content Include="BO_Digits\en\OutOfStockDetail.aspx" />
+    <Content Include="BO_Digits\en\OutOfStockItem.aspx" />
+    <Content Include="BO_Digits\en\OutOfStockReport.aspx" />
+    <Content Include="BO_Digits\en\QuestionDetail.aspx" />
     <Content Include="BO_Digits\en\Roles.aspx" />
+    <Content Include="BO_Digits\en\RouteCustomerReassignment.aspx" />
+    <Content Include="BO_Digits\en\RouteCustomerSettings.aspx" />
+    <Content Include="BO_Digits\en\RouteNotification.aspx" />
+    <Content Include="BO_Digits\en\RouteSettingsMaster.aspx" />
     <Content Include="BO_Digits\en\RouteTypes.aspx" />
     <Content Include="BO_Digits\en\Security.aspx" />
     <Content Include="BO_Digits\en\UpdatePassword.aspx" />
@@ -13792,7 +13937,6 @@
     <Content Include="BO_Digits\en\UserDailyProcessDetail.aspx" />
     <Content Include="BO_Digits\en\UserRoles.aspx" />
     <Content Include="BO_Digits\en\Users.aspx" />
-    <Content Include="Login.aspx" />
     <Content Include="Media\excel.png" />
     <Content Include="Media\loader.gif" />
     <Content Include="Password.aspx" />
@@ -14679,12 +14823,334 @@
     <Compile Include="BO_Digits\ar\ar_master.Master.designer.cs">
       <DependentUpon>ar_master.Master</DependentUpon>
     </Compile>
+    <Compile Include="BO_Digits\en\AddCusWeekRoute.aspx.cs">
+      <DependentUpon>AddCusWeekRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddCusWeekRoute.aspx.designer.cs">
+      <DependentUpon>AddCusWeekRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementCat.aspx.cs">
+      <DependentUpon>AddEditAgreementCat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementCat.aspx.designer.cs">
+      <DependentUpon>AddEditAgreementCat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementOffer.aspx.cs">
+      <DependentUpon>AddEditAgreementOffer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementOffer.aspx.designer.cs">
+      <DependentUpon>AddEditAgreementOffer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementPayTerms.aspx.cs">
+      <DependentUpon>AddEditAgreementPayTerms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementPayTerms.aspx.designer.cs">
+      <DependentUpon>AddEditAgreementPayTerms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementSubCat.aspx.cs">
+      <DependentUpon>AddEditAgreementSubCat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementSubCat.aspx.designer.cs">
+      <DependentUpon>AddEditAgreementSubCat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementType.aspx.cs">
+      <DependentUpon>AddEditAgreementType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAgreementType.aspx.designer.cs">
+      <DependentUpon>AddEditAgreementType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditArea.aspx.cs">
+      <DependentUpon>AddEditArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditArea.aspx.designer.cs">
+      <DependentUpon>AddEditArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAssetMaster.aspx.cs">
+      <DependentUpon>AddEditAssetMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAssetMaster.aspx.designer.cs">
+      <DependentUpon>AddEditAssetMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAutoUpdate.aspx.cs">
+      <DependentUpon>AddEditAutoUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditAutoUpdate.aspx.designer.cs">
+      <DependentUpon>AddEditAutoUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditBrand.aspx.cs">
+      <DependentUpon>AddEditBrand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditBrand.aspx.designer.cs">
+      <DependentUpon>AddEditBrand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCategory.aspx.cs">
+      <DependentUpon>AddEditCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCategory.aspx.designer.cs">
+      <DependentUpon>AddEditCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCompetitor.aspx.cs">
+      <DependentUpon>AddEditCompetitor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCompetitor.aspx.designer.cs">
+      <DependentUpon>AddEditCompetitor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCompetitorActivityType.aspx.cs">
+      <DependentUpon>AddEditCompetitorActivityType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCompetitorActivityType.aspx.designer.cs">
+      <DependentUpon>AddEditCompetitorActivityType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditComplaintsNature.aspx.cs">
+      <DependentUpon>AddEditComplaintsNature.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditComplaintsNature.aspx.designer.cs">
+      <DependentUpon>AddEditComplaintsNature.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCoolerType.aspx.cs">
+      <DependentUpon>AddEditCoolerType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCoolerType.aspx.designer.cs">
+      <DependentUpon>AddEditCoolerType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusHeader.aspx.cs">
+      <DependentUpon>AddEditCusHeader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusHeader.aspx.designer.cs">
+      <DependentUpon>AddEditCusHeader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusRoute.aspx.cs">
+      <DependentUpon>AddEditCusRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusRoute.aspx.designer.cs">
+      <DependentUpon>AddEditCusRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusRouteProducts.aspx.cs">
+      <DependentUpon>AddEditCusRouteProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCusRouteProducts.aspx.designer.cs">
+      <DependentUpon>AddEditCusRouteProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomer.aspx.cs">
+      <DependentUpon>AddEditCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomer.aspx.designer.cs">
+      <DependentUpon>AddEditCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerActivity.aspx.cs">
+      <DependentUpon>AddEditCustomerActivity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerActivity.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerActivity.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerActivityDetail.aspx.cs">
+      <DependentUpon>AddEditCustomerActivityDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerActivityDetail.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerActivityDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerBrochure.aspx.cs">
+      <DependentUpon>AddEditCustomerBrochure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerBrochure.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerBrochure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerCategory.aspx.cs">
+      <DependentUpon>AddEditCustomerCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerCategory.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerClass.aspx.cs">
+      <DependentUpon>AddEditCustomerClass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerClass.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerClass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerMain.aspx.cs">
+      <DependentUpon>AddEditCustomerMain.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerMain.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerMain.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerOperations.aspx.cs">
+      <DependentUpon>AddEditCustomerOperations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerOperations.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerOperations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerTasks.aspx.cs">
+      <DependentUpon>AddEditCustomerTasks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditCustomerTasks.aspx.designer.cs">
+      <DependentUpon>AddEditCustomerTasks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepot.aspx.cs">
+      <DependentUpon>AddEditDepot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepot.aspx.designer.cs">
+      <DependentUpon>AddEditDepot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepotArea.aspx.cs">
+      <DependentUpon>AddEditDepotArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepotArea.aspx.designer.cs">
+      <DependentUpon>AddEditDepotArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepotSubArea.aspx.cs">
+      <DependentUpon>AddEditDepotSubArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditDepotSubArea.aspx.designer.cs">
+      <DependentUpon>AddEditDepotSubArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditLicenseManagement.aspx.cs">
+      <DependentUpon>AddEditLicenseManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditLicenseManagement.aspx.designer.cs">
+      <DependentUpon>AddEditLicenseManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditNewRequest.aspx.cs">
+      <DependentUpon>AddEditNewRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditNewRequest.aspx.designer.cs">
+      <DependentUpon>AddEditNewRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditProductMappingGroup.aspx.cs">
+      <DependentUpon>AddEditProductMappingGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditProductMappingGroup.aspx.designer.cs">
+      <DependentUpon>AddEditProductMappingGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditProducts.aspx.cs">
+      <DependentUpon>AddEditProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditProducts.aspx.designer.cs">
+      <DependentUpon>AddEditProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditQuestions.aspx.cs">
+      <DependentUpon>AddEditQuestions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditQuestions.aspx.designer.cs">
+      <DependentUpon>AddEditQuestions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditReason.aspx.cs">
+      <DependentUpon>AddEditReason.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditReason.aspx.designer.cs">
+      <DependentUpon>AddEditReason.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRegion.aspx.cs">
+      <DependentUpon>AddEditRegion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRegion.aspx.designer.cs">
+      <DependentUpon>AddEditRegion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRoute.aspx.cs">
+      <DependentUpon>AddEditRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRoute.aspx.designer.cs">
+      <DependentUpon>AddEditRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRouteNotification.aspx.cs">
+      <DependentUpon>AddEditRouteNotification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditRouteNotification.aspx.designer.cs">
+      <DependentUpon>AddEditRouteNotification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSpecialPrice.aspx.cs">
+      <DependentUpon>AddEditSpecialPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSpecialPrice.aspx.designer.cs">
+      <DependentUpon>AddEditSpecialPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSpecialPriceDetail.aspx.cs">
+      <DependentUpon>AddEditSpecialPriceDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSpecialPriceDetail.aspx.designer.cs">
+      <DependentUpon>AddEditSpecialPriceDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSubcategory.aspx.cs">
+      <DependentUpon>AddEditSubcategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSubcategory.aspx.designer.cs">
+      <DependentUpon>AddEditSubcategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSurveyMaster.aspx.cs">
+      <DependentUpon>AddEditSurveyMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSurveyMaster.aspx.designer.cs">
+      <DependentUpon>AddEditSurveyMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSurveyQuestions.aspx.cs">
+      <DependentUpon>AddEditSurveyQuestions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditSurveyQuestions.aspx.designer.cs">
+      <DependentUpon>AddEditSurveyQuestions.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BO_Digits\en\AddEditUser.aspx.cs">
       <DependentUpon>AddEditUser.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="BO_Digits\en\AddEditUser.aspx.designer.cs">
       <DependentUpon>AddEditUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditUsers.aspx.cs">
+      <DependentUpon>AddEditUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddEditUsers.aspx.designer.cs">
+      <DependentUpon>AddEditUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddProducts.aspx.cs">
+      <DependentUpon>AddProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddProducts.aspx.designer.cs">
+      <DependentUpon>AddProducts.aspx</DependentUpon>
     </Compile>
     <Compile Include="BO_Digits\en\AddRole.aspx.cs">
       <DependentUpon>AddRole.aspx</DependentUpon>
@@ -14693,12 +15159,96 @@
     <Compile Include="BO_Digits\en\AddRole.aspx.designer.cs">
       <DependentUpon>AddRole.aspx</DependentUpon>
     </Compile>
+    <Compile Include="BO_Digits\en\AddSurveyCustomerRoute.aspx.cs">
+      <DependentUpon>AddSurveyCustomerRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddSurveyCustomerRoute.aspx.designer.cs">
+      <DependentUpon>AddSurveyCustomerRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddSurveyDetail.aspx.cs">
+      <DependentUpon>AddSurveyDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\AddSurveyDetail.aspx.designer.cs">
+      <DependentUpon>AddSurveyDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerGeoLocation.aspx.cs">
+      <DependentUpon>CustomerGeoLocation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerGeoLocation.aspx.designer.cs">
+      <DependentUpon>CustomerGeoLocation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerNotAvailable.aspx.cs">
+      <DependentUpon>CustomerNotAvailable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerNotAvailable.aspx.designer.cs">
+      <DependentUpon>CustomerNotAvailable.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerNotAvailableDetail.aspx.cs">
+      <DependentUpon>CustomerNotAvailableDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerNotAvailableDetail.aspx.designer.cs">
+      <DependentUpon>CustomerNotAvailableDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerOperationsAssignment.aspx.cs">
+      <DependentUpon>CustomerOperationsAssignment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerOperationsAssignment.aspx.designer.cs">
+      <DependentUpon>CustomerOperationsAssignment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerProductMapping.aspx.cs">
+      <DependentUpon>CustomerProductMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerProductMapping.aspx.designer.cs">
+      <DependentUpon>CustomerProductMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerTask.aspx.cs">
+      <DependentUpon>CustomerTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerTask.aspx.designer.cs">
+      <DependentUpon>CustomerTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerWeekRoute.aspx.cs">
+      <DependentUpon>CustomerWeekRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\CustomerWeekRoute.aspx.designer.cs">
+      <DependentUpon>CustomerWeekRoute.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BO_Digits\en\Dashboard.aspx.cs">
       <DependentUpon>Dashboard.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="BO_Digits\en\Dashboard.aspx.designer.cs">
       <DependentUpon>Dashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\DeliveryCheck.aspx.cs">
+      <DependentUpon>DeliveryCheck.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\DeliveryCheck.aspx.designer.cs">
+      <DependentUpon>DeliveryCheck.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\DeliveryCheckDetail.aspx.cs">
+      <DependentUpon>DeliveryCheckDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\DeliveryCheckDetail.aspx.designer.cs">
+      <DependentUpon>DeliveryCheckDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\DisplayAgreements.aspx.cs">
+      <DependentUpon>DisplayAgreements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\DisplayAgreements.aspx.designer.cs">
+      <DependentUpon>DisplayAgreements.aspx</DependentUpon>
     </Compile>
     <Compile Include="BO_Digits\en\en_master.Master.cs">
       <DependentUpon>en_master.Master</DependentUpon>
@@ -14707,12 +15257,627 @@
     <Compile Include="BO_Digits\en\en_master.Master.designer.cs">
       <DependentUpon>en_master.Master</DependentUpon>
     </Compile>
+    <Compile Include="BO_Digits\en\ImageCapture.aspx.cs">
+      <DependentUpon>ImageCapture.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ImageCapture.aspx.designer.cs">
+      <DependentUpon>ImageCapture.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\Inventory.aspx.cs">
+      <DependentUpon>Inventory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\Inventory.aspx.designer.cs">
+      <DependentUpon>Inventory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\InventoryDetail.aspx.cs">
+      <DependentUpon>InventoryDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\InventoryDetail.aspx.designer.cs">
+      <DependentUpon>InventoryDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\InventoryItem.aspx.cs">
+      <DependentUpon>InventoryItem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\InventoryItem.aspx.designer.cs">
+      <DependentUpon>InventoryItem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailability.aspx.cs">
+      <DependentUpon>ItemAvailability.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailability.aspx.designer.cs">
+      <DependentUpon>ItemAvailability.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailabilityDetail.apsx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailabilityDetail.apsx.designer.cs">
+      <DependentUpon>ItemAvailabilityDetail.apsx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailabilityDetail.aspx.cs">
+      <DependentUpon>ItemAvailabilityDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemAvailabilityDetail.aspx.designer.cs">
+      <DependentUpon>ItemAvailabilityDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailable.aspx.cs">
+      <DependentUpon>ItemNotAvailable.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailable.aspx.designer.cs">
+      <DependentUpon>ItemNotAvailable.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailableDetail.aspx.cs">
+      <DependentUpon>ItemNotAvailableDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailableDetail.aspx.designer.cs">
+      <DependentUpon>ItemNotAvailableDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailableReport.aspx.cs">
+      <DependentUpon>ItemNotAvailableReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ItemNotAvailableReport.aspx.designer.cs">
+      <DependentUpon>ItemNotAvailableReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\LastRouteCommunicationReport.aspx.cs">
+      <DependentUpon>LastRouteCommunicationReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\LastRouteCommunicationReport.aspx.designer.cs">
+      <DependentUpon>LastRouteCommunicationReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementCat.aspx.cs">
+      <DependentUpon>ListAgreementCat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementCat.aspx.designer.cs">
+      <DependentUpon>ListAgreementCat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementOffer.aspx.cs">
+      <DependentUpon>ListAgreementOffer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementOffer.aspx.designer.cs">
+      <DependentUpon>ListAgreementOffer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementPayTerms.aspx.cs">
+      <DependentUpon>ListAgreementPayTerms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementPayTerms.aspx.designer.cs">
+      <DependentUpon>ListAgreementPayTerms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementSubCat.aspx.cs">
+      <DependentUpon>ListAgreementSubCat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgreementSubCat.aspx.designer.cs">
+      <DependentUpon>ListAgreementSubCat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgrementType.aspx.cs">
+      <DependentUpon>ListAgrementType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAgrementType.aspx.designer.cs">
+      <DependentUpon>ListAgrementType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListArea.aspx.cs">
+      <DependentUpon>ListArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListArea.aspx.designer.cs">
+      <DependentUpon>ListArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssetMaster.aspx.cs">
+      <DependentUpon>ListAssetMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssetMaster.aspx.designer.cs">
+      <DependentUpon>ListAssetMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssign.aspx.cs">
+      <DependentUpon>ListAssign.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssign.aspx.designer.cs">
+      <DependentUpon>ListAssign.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssignedSurvey.aspx.cs">
+      <DependentUpon>ListAssignedSurvey.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAssignedSurvey.aspx.designer.cs">
+      <DependentUpon>ListAssignedSurvey.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAutoUpdate.aspx.cs">
+      <DependentUpon>ListAutoUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListAutoUpdate.aspx.designer.cs">
+      <DependentUpon>ListAutoUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListBrand.aspx.cs">
+      <DependentUpon>ListBrand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListBrand.aspx.designer.cs">
+      <DependentUpon>ListBrand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCategory.aspx.cs">
+      <DependentUpon>ListCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCategory.aspx.designer.cs">
+      <DependentUpon>ListCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitor.aspx.cs">
+      <DependentUpon>ListCompetitor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitor.aspx.designer.cs">
+      <DependentUpon>ListCompetitor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitorActivities.aspx.cs">
+      <DependentUpon>ListCompetitorActivities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitorActivities.aspx.designer.cs">
+      <DependentUpon>ListCompetitorActivities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitorActivityType.aspx.cs">
+      <DependentUpon>ListCompetitorActivityType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCompetitorActivityType.aspx.designer.cs">
+      <DependentUpon>ListCompetitorActivityType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListComplaintsNature.aspx.cs">
+      <DependentUpon>ListComplaintsNature.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListComplaintsNature.aspx.designer.cs">
+      <DependentUpon>ListComplaintsNature.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCoolerMaster.aspx.cs">
+      <DependentUpon>ListCoolerMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCoolerMaster.aspx.designer.cs">
+      <DependentUpon>ListCoolerMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCoolerType.aspx.cs">
+      <DependentUpon>ListCoolerType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCoolerType.aspx.designer.cs">
+      <DependentUpon>ListCoolerType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCusRouteProducts.aspx.cs">
+      <DependentUpon>ListCusRouteProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCusRouteProducts.aspx.designer.cs">
+      <DependentUpon>ListCusRouteProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomer.aspx.cs">
+      <DependentUpon>ListCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomer.aspx.designer.cs">
+      <DependentUpon>ListCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerActivity.aspx.cs">
+      <DependentUpon>ListCustomerActivity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerActivity.aspx.designer.cs">
+      <DependentUpon>ListCustomerActivity.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerActivityDetail.aspx.cs">
+      <DependentUpon>ListCustomerActivityDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerActivityDetail.aspx.designer.cs">
+      <DependentUpon>ListCustomerActivityDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssetTracking.aspx.cs">
+      <DependentUpon>ListCustomerAssetTracking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssetTracking.aspx.designer.cs">
+      <DependentUpon>ListCustomerAssetTracking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssetTrackingDetail.aspx.cs">
+      <DependentUpon>ListCustomerAssetTrackingDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssetTrackingDetail.aspx.designer.cs">
+      <DependentUpon>ListCustomerAssetTrackingDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssignedSurvey.aspx.cs">
+      <DependentUpon>ListCustomerAssignedSurvey.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerAssignedSurvey.aspx.designer.cs">
+      <DependentUpon>ListCustomerAssignedSurvey.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerBrochure.aspx.cs">
+      <DependentUpon>ListCustomerBrochure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerBrochure.aspx.designer.cs">
+      <DependentUpon>ListCustomerBrochure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerCategory.aspx.cs">
+      <DependentUpon>ListCustomerCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerCategory.aspx.designer.cs">
+      <DependentUpon>ListCustomerCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerClass.aspx.cs">
+      <DependentUpon>ListCustomerClass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerClass.aspx.designer.cs">
+      <DependentUpon>ListCustomerClass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerHeader.aspx.cs">
+      <DependentUpon>ListCustomerHeader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerHeader.aspx.designer.cs">
+      <DependentUpon>ListCustomerHeader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerMain.aspx.cs">
+      <DependentUpon>ListCustomerMain.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerMain.aspx.designer.cs">
+      <DependentUpon>ListCustomerMain.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOperations.aspx.cs">
+      <DependentUpon>ListCustomerOperations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOperations.aspx.designer.cs">
+      <DependentUpon>ListCustomerOperations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOutStockDetail.aspx.cs">
+      <DependentUpon>ListCustomerOutStockDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOutStockDetail.aspx.designer.cs">
+      <DependentUpon>ListCustomerOutStockDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOutStockHeader.aspx.cs">
+      <DependentUpon>ListCustomerOutStockHeader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerOutStockHeader.aspx.designer.cs">
+      <DependentUpon>ListCustomerOutStockHeader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRetailPrice.aspx.cs">
+      <DependentUpon>ListCustomerRetailPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRetailPrice.aspx.designer.cs">
+      <DependentUpon>ListCustomerRetailPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRetailPriceDetail.aspx.cs">
+      <DependentUpon>ListCustomerRetailPriceDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRetailPriceDetail.aspx.designer.cs">
+      <DependentUpon>ListCustomerRetailPriceDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRoute.aspx.cs">
+      <DependentUpon>ListCustomerRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerRoute.aspx.designer.cs">
+      <DependentUpon>ListCustomerRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerTasks.aspx.cs">
+      <DependentUpon>ListCustomerTasks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListCustomerTasks.aspx.designer.cs">
+      <DependentUpon>ListCustomerTasks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepoSubArea.aspx.cs">
+      <DependentUpon>ListDepoSubArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepoSubArea.aspx.designer.cs">
+      <DependentUpon>ListDepoSubArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepot.aspx.cs">
+      <DependentUpon>ListDepot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepot.aspx.designer.cs">
+      <DependentUpon>ListDepot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepotArea.aspx.cs">
+      <DependentUpon>ListDepotArea.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDepotArea.aspx.designer.cs">
+      <DependentUpon>ListDepotArea.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDisplayAgreements.aspx.cs">
+      <DependentUpon>ListDisplayAgreements.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListDisplayAgreements.aspx.designer.cs">
+      <DependentUpon>ListDisplayAgreements.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListGeneralComplaints.aspx.cs">
+      <DependentUpon>ListGeneralComplaints.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListGeneralComplaints.aspx.designer.cs">
+      <DependentUpon>ListGeneralComplaints.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListLicenseManagement.aspx.cs">
+      <DependentUpon>ListLicenseManagement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListLicenseManagement.aspx.designer.cs">
+      <DependentUpon>ListLicenseManagement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListNewRequest.aspx.cs">
+      <DependentUpon>ListNewRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListNewRequest.aspx.designer.cs">
+      <DependentUpon>ListNewRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListOppDocuments.aspx.cs">
+      <DependentUpon>ListOppDocuments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListOppDocuments.aspx.designer.cs">
+      <DependentUpon>ListOppDocuments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListOpportunities.aspx.cs">
+      <DependentUpon>ListOpportunities.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListOpportunities.aspx.designer.cs">
+      <DependentUpon>ListOpportunities.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductComplaints.aspx.cs">
+      <DependentUpon>ListProductComplaints.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductComplaints.aspx.designer.cs">
+      <DependentUpon>ListProductComplaints.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductMappingDetail.aspx.cs">
+      <DependentUpon>ListProductMappingDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductMappingDetail.aspx.designer.cs">
+      <DependentUpon>ListProductMappingDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductMappingGroup.aspx.cs">
+      <DependentUpon>ListProductMappingGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProductMappingGroup.aspx.designer.cs">
+      <DependentUpon>ListProductMappingGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProducts.aspx.cs">
+      <DependentUpon>ListProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListProducts.aspx.designer.cs">
+      <DependentUpon>ListProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListQuestionMaster.aspx.cs">
+      <DependentUpon>ListQuestionMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListQuestionMaster.aspx.designer.cs">
+      <DependentUpon>ListQuestionMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListReasonMaster.aspx.cs">
+      <DependentUpon>ListReasonMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListReasonMaster.aspx.designer.cs">
+      <DependentUpon>ListReasonMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRegionMaster.aspx.cs">
+      <DependentUpon>ListRegionMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRegionMaster.aspx.designer.cs">
+      <DependentUpon>ListRegionMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRoute.aspx.cs">
+      <DependentUpon>ListRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRoute.aspx.designer.cs">
+      <DependentUpon>ListRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRouteProduct.aspx.cs">
+      <DependentUpon>ListRouteProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListRouteProduct.aspx.designer.cs">
+      <DependentUpon>ListRouteProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSalesWeek.aspx.cs">
+      <DependentUpon>ListSalesWeek.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSalesWeek.aspx.designer.cs">
+      <DependentUpon>ListSalesWeek.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSpecialPrice.aspx.cs">
+      <DependentUpon>ListSpecialPrice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSpecialPrice.aspx.designer.cs">
+      <DependentUpon>ListSpecialPrice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSpecialPriceDetail.aspx.cs">
+      <DependentUpon>ListSpecialPriceDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSpecialPriceDetail.aspx.designer.cs">
+      <DependentUpon>ListSpecialPriceDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSubcategory.aspx.cs">
+      <DependentUpon>ListSubcategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSubcategory.aspx.designer.cs">
+      <DependentUpon>ListSubcategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyDetail.aspx.cs">
+      <DependentUpon>ListSurveyDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyDetail.aspx.designer.cs">
+      <DependentUpon>ListSurveyDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyHeader.aspx.cs">
+      <DependentUpon>ListSurveyHeader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyHeader.aspx.designer.cs">
+      <DependentUpon>ListSurveyHeader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyMaster.aspx.cs">
+      <DependentUpon>ListSurveyMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyMaster.aspx.designer.cs">
+      <DependentUpon>ListSurveyMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyQuestions.aspx.cs">
+      <DependentUpon>ListSurveyQuestions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListSurveyQuestions.aspx.designer.cs">
+      <DependentUpon>ListSurveyQuestions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListUser.aspx.cs">
+      <DependentUpon>ListUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\ListUser.aspx.designer.cs">
+      <DependentUpon>ListUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchandisingTransactions.aspx.cs">
+      <DependentUpon>MerchandisingTransactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchandisingTransactions.aspx.designer.cs">
+      <DependentUpon>MerchandisingTransactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchOthersDetail.aspx.cs">
+      <DependentUpon>MerchOthersDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchOthersDetail.aspx.designer.cs">
+      <DependentUpon>MerchOthersDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchTransactionDetail.aspx.cs">
+      <DependentUpon>MerchTransactionDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\MerchTransactionDetail.aspx.designer.cs">
+      <DependentUpon>MerchTransactionDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\NearByExpiryReport.aspx.cs">
+      <DependentUpon>NearByExpiryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\NearByExpiryReport.aspx.designer.cs">
+      <DependentUpon>NearByExpiryReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStock.aspx.cs">
+      <DependentUpon>OutOfStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStock.aspx.designer.cs">
+      <DependentUpon>OutOfStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockDetail.aspx.cs">
+      <DependentUpon>OutOfStockDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockDetail.aspx.designer.cs">
+      <DependentUpon>OutOfStockDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockItem.aspx.cs">
+      <DependentUpon>OutOfStockItem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockItem.aspx.designer.cs">
+      <DependentUpon>OutOfStockItem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockReport.aspx.cs">
+      <DependentUpon>OutOfStockReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\OutOfStockReport.aspx.designer.cs">
+      <DependentUpon>OutOfStockReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\QuestionDetail.aspx.cs">
+      <DependentUpon>QuestionDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\QuestionDetail.aspx.designer.cs">
+      <DependentUpon>QuestionDetail.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BO_Digits\en\Roles.aspx.cs">
       <DependentUpon>Roles.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="BO_Digits\en\Roles.aspx.designer.cs">
       <DependentUpon>Roles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteCustomerReassignment.aspx.cs">
+      <DependentUpon>RouteCustomerReassignment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteCustomerReassignment.aspx.designer.cs">
+      <DependentUpon>RouteCustomerReassignment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteCustomerSettings.aspx.cs">
+      <DependentUpon>RouteCustomerSettings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteCustomerSettings.aspx.designer.cs">
+      <DependentUpon>RouteCustomerSettings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteNotification.aspx.cs">
+      <DependentUpon>RouteNotification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteNotification.aspx.designer.cs">
+      <DependentUpon>RouteNotification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteSettingsMaster.aspx.cs">
+      <DependentUpon>RouteSettingsMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BO_Digits\en\RouteSettingsMaster.aspx.designer.cs">
+      <DependentUpon>RouteSettingsMaster.aspx</DependentUpon>
     </Compile>
     <Compile Include="BO_Digits\en\RouteTypes.aspx.cs">
       <DependentUpon>RouteTypes.aspx</DependentUpon>
@@ -14765,13 +15930,6 @@
     </Compile>
     <Compile Include="BO_Digits\General.cs" />
     <Compile Include="BO_Digits\GeneralFunctions.cs" />
-    <Compile Include="Login.aspx.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Login.aspx.designer.cs">
-      <DependentUpon>Login.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Password.aspx.cs">
       <DependentUpon>Password.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -16617,9 +17775,6 @@
     <Folder Include="Admin\assets\vendors\general\summernote\built\bs4\" />
     <Folder Include="Admin\assets\vendors\general\summernote\built\lite\ui\" />
     <Folder Include="LogFile\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Properties\licenses.licx" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
